@@ -1,0 +1,25 @@
+{
+  "name": "coderpower-angular-diff",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Coderpower/angular-diff",
+  "authors": [
+    "Julien Sarazin <julien@coderpower.com>"
+  ],
+  "description": "angular-diff-match-patch => frozen version from 0.1.4  WITHOUT SVN DEPENDENCY.",
+  "main": "[angular-diff-match-patch.js, diff_match_patch.js]",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "diff",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
